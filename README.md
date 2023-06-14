@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-You can reach me at Discord Rutherther#8497
+You can reach me at Discord, @rutherther
 
 [![Rutherther's GitHub stats](https://github-readme-stats.vercel.app/api?username=rutherther)](https://github.com/anuraghazra/github-readme-stats)
 
